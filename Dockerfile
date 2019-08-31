@@ -1,2 +1,2 @@
-FROM mariadb:10.3
-LABEL maintainer="Abdullah Morgan paapaabdullahm@gmail.com"
+FROM mariadb:10.4
+LABEL maintainer="Abdullah Morgan <paapaabdullahm@gmail.com>"
